@@ -114,7 +114,7 @@ confirmer = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/68fe362befd1d574d8f9c.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/478593a0d6b53fda8be8f.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
