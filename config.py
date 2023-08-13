@@ -42,7 +42,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = getenv(
     "SUPPORT_CHANNEL", "https://t.me/Stylish_Name_Dpz")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/+_7H_3xx6S-M2ZGQ9")
+    "SUPPORT_GROUP", "https://t.me/Royal_P_N")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
